@@ -6,9 +6,9 @@ import { Badge } from "react-bootstrap";
 
 const App = () => {
   const usersData = [
-    { id: 1, name: "Priyesh", username: "ducati_freak" },
+    { id: 1, name: "Priyesh", username: "Software Engineer" },
     { id: 2, name: "John", username: "mr_wick" },
-    { id: 3, name: "Ben", username: "alien_freak" }
+    { id: 3, name: "John Bohnam", username: "god of drumming" }
   ];
 
   const initialFormState = { id: null, name: "", username: "" };
